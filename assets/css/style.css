@@ -1,5 +1,27 @@
 body {
-    background-image: url(./../images/background-black-colors-952670.jpg);
+    background-image: url(./../images/bb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.jumbotron{
+    background: none;
+    text-align: center;
+    color: mistyrose;
+    text-shadow: 2px 2px 8px black;
+    font-family: 'Cuprum', sans-serif;
+}
+
+.container {
+    color: mistyrose;
+    text-shadow: 2px 2px 8px black;
+    font-size: 25px;
+    font-family: 'Cuprum', sans-serif;
+    line-height: 1.4;
+}
+
+.crystal {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
 }
